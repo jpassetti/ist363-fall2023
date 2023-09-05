@@ -9,6 +9,7 @@
 
 ### Outline:
 * Set up HTML and CSS quickly with the ! shortcut
+* Utilize normalize.css and set up a small CSS reset of your own.
 * What is JavaScript? Create a JS file and link it to your HTML.
 * Variables
 * Methods: getElementById, addEventListener, classList.add, classList.remove
@@ -20,8 +21,8 @@
 * Watch [What is JavaScript?](https://www.youtube.com/watch?v=upDLs1sn7g4) by Mosh  Hamedani
 
 ### Assignment(s)
-1. In class: zip your IST363 project folder and submit it on Blackboard/Assignments.
-2. Before next class: Create a Github repository for your IST363 project and push your project to it. Submit the URL of your Github repository on Blackboard/Assignments.
+1. End of class attendance: zip your IST363 project folder and submit it on Blackboard/Assignments.
+2. Before next class: Create a Github repository for your IST363 semester folder and push your project to it. Submit the URL of your Github repository on Blackboard/Assignments.
 
 ### Github instructions
 1. Install Git on your machine. Follow the instructions on Blackboard or [Git's website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
