@@ -24,6 +24,7 @@
 
 ### Reading / Viewing:
 * Read [PNG vs SVG](https://www.adobe.com/creativecloud/file-types/image/comparison/png-vs-svg.html) by Adobe
+* Read [Compound Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Selector_structure#compound_selector) by Mozilla Developer Network (MDN)
 
 ### Code Snippets
 ```css
