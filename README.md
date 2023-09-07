@@ -7,3 +7,6 @@
 
 ### 2: [Flyout Menu](02_flyout_menu)
 * Session 2 (Tu 9/5): Continue flyout menu development
+
+### 3: [Flyout Menu](03_finished_flyout_menu)
+* Session 3 (Th 9/7): Finish the flyout menu
