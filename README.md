@@ -10,3 +10,6 @@
 
 ### 3: [Flyout Menu](03_finished_flyout_menu)
 * Session 3 (Th 9/7): Finish the flyout menu
+
+### 4: [Objects and Arrays](04_array_objects)
+* Session 4 (Tu 9/12): Finish the flyout menu and learn about objects and arrays
