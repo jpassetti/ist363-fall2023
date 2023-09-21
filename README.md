@@ -13,3 +13,9 @@
 
 ### 4: [Objects and Arrays](04_array_objects)
 * Session 4 (Tu 9/12): Finish the flyout menu and learn about objects and arrays
+
+### 6: [Coffee Array](06_coffee_array)
+* Session 6 (Tu 9/19): Add a large array of coffee items
+
+### 7: [Array Methods](07_array_methods)
+* Session 7 (Tu 9/21): Learn about array methods, specifically forEach, sort, and filter
