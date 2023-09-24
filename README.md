@@ -19,3 +19,6 @@
 
 ### 7: [Array Methods](07_array_methods)
 * Session 7 (Tu 9/21): Learn about array methods, specifically forEach, sort, and filter
+
+### 7b: [Videos](07b_videos)
+* Homework (Due Tu 9/29): Learn about arrow functions, forEach array method, and sort array method
