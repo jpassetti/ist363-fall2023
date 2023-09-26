@@ -22,3 +22,6 @@
 
 ### 7b: [Videos](07b_videos)
 * Homework (Due Tu 9/29): Learn about arrow functions, forEach array method, and sort array method
+
+### 8: [Filter Method](08_filter)
+* Session 8 (Tu 9/29): Learn how to use the filter method and how to create an HTML select menu
