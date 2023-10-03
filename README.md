@@ -25,3 +25,6 @@
 
 ### 8: [Filter Method](08_filter)
 * Session 8 (Tu 9/29): Learn how to use the filter method and how to create an HTML select menu
+
+### 9: [SASS](09_sass)
+* Session 9 (Th 10/3): Learn how to utilize SASS in your web development projects
