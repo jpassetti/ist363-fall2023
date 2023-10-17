@@ -28,3 +28,6 @@
 
 ### 9: [SASS](09_sass)
 * Session 9 (Th 10/3): Learn how to utilize SASS in your web development projects
+
+### 12: [SASS, Mixins, BEM](12_sass_mixins_bem)
+* Session 12 (Tu 10/17): Learn how utilize the responsive mixin called "breakpoint", as well as learn how to utilize BEM methodology while writing CSS/SCSS.
