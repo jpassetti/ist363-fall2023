@@ -1,6 +1,6 @@
 # IST 363 Advanced Web Design - Fall 2023
 
-## 10 - SASS mixin
+## 12 - SASS mixins and BEM methodology
 
 ### Objectives:
 * Review and learn more on how to use a SASS mixin for responsive web design
