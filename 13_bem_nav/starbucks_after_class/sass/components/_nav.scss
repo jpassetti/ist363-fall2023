@@ -1,0 +1,43 @@
+@use '../abstracts/mixins';
+
+.nav {
+    background-color: pink;
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+    }
+    &__item {
+       
+    }
+    &__link {
+        font-family: Arial;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    &.nav--desktop {
+        display: none;
+        .nav__link {
+            color: black;
+            text-transform: uppercase;
+        }
+        @include mixins.breakpoint(laptop) {
+            display: block;
+        }
+    }
+    &.nav--mobile {
+        background-color: blue;
+    }
+    &.nav--social {
+        background-color: orange;
+        .nav__link {
+            color: white;
+        }
+    }
+    &.nav--footer {
+        background-color: red;
+        .nav__link {
+            color: white;
+        }
+    }
+}
