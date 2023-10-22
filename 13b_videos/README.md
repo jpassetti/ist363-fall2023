@@ -20,6 +20,8 @@
 
 ### Video 2: Showcase
 
+[Watch the video](https://youtu.be/FyTmhQJ_EWE)
+
 * Add a new section (and block element) called `.showcase`.
 * Add the elements to the showcase, including `.showcase__image`, `.showcase__text`, `.showcase__title` and `.showcase__description`.
 * Add a new partial called `_showcase.scss` and style the showcase elements.
@@ -27,9 +29,26 @@
 
 ### Video 3: Grid
 
+[Watch the video](https://youtu.be/4FXr1WlWMe8)
+
 * Add a new section (and block element) called `.collection`.
 * Add the elements to the collection, including `.collection__item`, `.collection__item__image` and `.collection__item__title`.
 * Add a new partial called `_collection.scss` and style the collection elements.
 * Add `display:grid` to the collection, allowing the items to be displayed in a grid format.
 * Add `grid-template-columns` to the collection, allowing the items to be displayed in a grid format.
 * Why use display: grid and not display: flex?  I'll explain the differences between the two.
+
+### Video 4: Font and Toggle Sort Button
+
+[Watch the video](https://youtu.be/N2NM8VFZXDc)
+
+* Download the fonts from `Blackboard/Content/Week 8 videos` and place the files in a new "fonts" subdirectory in your Starbucks project.
+* Add a new partial called `_font.scss` to `/sass/base/`.
+* Copy/paste the `@font-face` code from `Blackboard/Content/Week 8 videos` into this file.
+* Add the "SoDo Sans" font to the $font_primary variable inside `/sass/abstracts/_vars.scss`.
+* In JavaScript turn off or remove code about ascending and descending buttons. 
+* Create a variable for `sortBtn`.
+* Add an event listener to the `sortBtn` variable.
+* Create a ternary operator to toggle the sort button between ascending and descending.
+* Empty the icon in the button and create a new one, with the correct file name.
+* Make sure to rename your icons `arrow-ascending.svg` and `arrow-descending.svg` so the code works correctly.
